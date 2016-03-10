@@ -1,4 +1,4 @@
-# zhihu_scrapy2
+# zhihu_scrapy
 抓取知乎个人主页的简单示例
 
 主程序：
